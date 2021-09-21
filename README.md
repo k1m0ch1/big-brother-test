@@ -6,7 +6,7 @@
 
 Kamu merasa tidak nyaman menggunakan aplikasi, terkadang kamu merasa ada yang aneh dengan aplikasinya, repository ini mengumpulkan list aplikasi yang sudah di test untuk melihat apakah aplikasinya melanggar data privacy atau tidak, keputusan kembali lagi pada pengguna aplikasi.
 
-Big Brother diambil dari novel 1984 George norwell dimana big brother adalah karakter fiktif yang dibuat oleh suatu kelompok untuk memberikan rasa takut kalau ada seseorang yg akan mengawasimu dimanapun dan kapanpun
+Big Brother diambil dari novel 1984 George orwell dimana big brother adalah karakter fiktif yang dibuat oleh suatu kelompok untuk memberikan rasa takut kalau ada seseorang yg akan mengawasimu dimanapun dan kapanpun
 
 # Daftar aplikasi
 1. [Peduli Lindungi](peduli-lindungi/mobile-app-android-en.md)
