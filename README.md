@@ -11,4 +11,4 @@ Big Brother diambil dari novel 1984 George norwell dimana big brother adalah kar
 # Daftar aplikasi
 1. [Peduli Lindungi](peduli-lindungi/mobile-app-android-en.md)
 
-untuk bergabung dan pengen tau caranya bisa baca ke [Contributing.md](contributing.md)
+untuk bergabung dan pengen tau caranya bisa baca ke [Contributing.md](CONTRIBUTING.md)
