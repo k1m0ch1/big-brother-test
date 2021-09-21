@@ -8,3 +8,4 @@ aplikasi ID dapat di cek di playstore pada URL aplikasi contoh `com.telkom.trace
 
 Download dan install [Mobile-Security-Framework](https://github.com/MobSF/Mobile-Security-Framework-MobSF) lalu upload file APK nya dan proses analisa dilakukan disini secara pelan pelan
 
+kalian harus paham, pada saat melakukan analisa, kalian tidak melakukan injeksi ataupun merusak aset target, karena tujuan utamanya adalah menganalisa aktifitas aplikasi, jadi di setiap file tolong sertakan `Disclaimer`
