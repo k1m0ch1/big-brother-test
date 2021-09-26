@@ -48,7 +48,7 @@ Third Parties:
 10. `android.permission.WAKE_LOCK` prevent the device from sleep or lock it self
 11. `android.permission.WRITE_EXTERNAL_STORAGE` Allows an application to write to external storage.
 12. `com.google.android.c2dm.permission.RECEIVE` Cloud to device messaging probably firebase
-13. `com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE` still don't get it what is this for
+13. `com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE` is used by Firebase to recognize where the app was installed from.
 
 ## CPU, Storage and RAM is stored on firebase <a name="stored-resources"></a>
 
