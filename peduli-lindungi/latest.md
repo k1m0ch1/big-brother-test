@@ -13,12 +13,14 @@ I do check the apps and I'm not doing full analyze, because there is so many sou
 ## List of found
 1. [Technology](#technology)
 2. [Application Permissions](#permissions)
-2. [CPU, Storage and RAM is stored on firebase](#stored-resources)
-3. [Force close application on mock location](#exit-onmock-location)
-4. [Locally saved location on your device](#location-sqlite)
-5. [Some page will store your access token](#store-access-token)
-6. [Some of the URL is visible at source code](#url-visible)
-7. [some old feature is not deleted](#old-feature)
+3. [Weird Traffic](#weird-traffic)
+4. [SQLite](#sqlite)
+5. [CPU, Storage and RAM is stored on firebase](#stored-resources)
+6. [Force close application on mock location](#exit-onmock-location)
+7. [Locally saved location on your device](#location-sqlite)
+8. [Some page will store your access token](#store-access-token)
+9. [Some of the URL is visible at source code](#url-visible)
+10. [some old feature is not deleted](#old-feature)
 
 ## Technology <a name="technology"></a>
 
@@ -61,20 +63,115 @@ the data will be sent to firebase (manually by application) when you are trying 
 
 why they need the CPU, Storage and RAM, what for ? 
 
-<p align="center">
-    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/3.4.4-log-CPU.png">
+Just try to decompile the application and search with keyword `CPU` within the directory of `com/telkom/tracencare`, you will get the result like this
+<p align="left">
+    <img height=30% width=30% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/3.4.4-log-CPU.png">
 </p>
+just click one of the result and it will get a same flow like this 
+
+```yaml
+initialize firebase -> get the data -> go to activity
+```
 <p align="center">
-    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/3.4.4-log-CPU-to-firebase.png">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/code-block-firebase-analytics.png">
 </p>
 
-## The apps store this files
+if you go to this link https://firebase.google.com/docs/analytics/get-started?platform=android, it mean peduli lindungi application intentionally sent those data to firebase.
+
+## Weird Traffic <a name="weird-traffic"></a>
+
+when I did the Dynamic Analysis and get a long time to use all the function on the application, I capture the traffic and get this weird data transfer to `unknown`
+
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/weird-traffic.png">
+</p>
+
+so the data that contain "privacy" user is actually is sent to the `track.analytic.rocks`
+
+a weird website that goes nowhere, here is log of the data [weird-data-capture.txt](weird-data-capture.txt)
+
+I do a simple tracking to understand what is the `track.analytic.rocks`
+
+1. check the domain response, nothing
+
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/cek-domain-track.png">
+</p>
+
+2. check the main domain `analytic.rocks`
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/cek-domain-main.png">
+</p>
+
+3. google check
+
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/google-check-2.png">
+</p>
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/google-check-1.png">
+</p>
+
+4. nmap scanning
+
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/nmap.png">
+</p>
+
+5. location of the domain
+
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/sadf.png">
+</p>
+
+6. OSINT - theHarvester or you can see the result [here](osint-result.txt)
+
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/theHarvester-1.png">
+</p>
+
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/theHarvester-2.png">
+</p>
+
+7. OSINT - shodan
+
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/track.analytic.rocks.png">
+</p>
+
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/domain.png">
+</p>
+
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/hostnya.png">
+</p>
+
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/lol-wat.png">
+</p>
+
+8. Virustotal
+
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/virustotal.png">
+</p>
+
+<p align="center">
+    <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/virustotal-2.png">
+</p>
+
+
+
+
+## The apps store this files <a name="app-store-files"></a>
 
 1. `/data/user/0/com.telkom.tracencare/files/generatefid.lock` 
 2. `/data/user/0/com.telkom.tracencare/files/google_app_measurement.db`
 3. `data/user/0/com.telkom.tracencare/databases/Rtf9Lv2ZmH7r ` store file SQLite
 
-## SQLite
+## SQLite <a name="sqlite"></a>
 
 Table
 
@@ -87,6 +184,10 @@ Table
 
 inside this table stored data like this
 
+```
+eyJhcHBOYW1lIjoiWkRObU9HRmtZVGd0WmpRMk1DMDBZelEzTFRoaFpHWXROek0wTmpJek1qVTRNakUyXG4iLCJldmVudCI6IlRHRjFibU5vSUZKbGMzVnRaUT09XG4iLCJkYXRlX3RpbWUiOiJNalV0VTJWd0xUSXdNakVnTURVNk1qUTZNakk2TnpBMFxuIiwiZGV2aWNlX2lkIjoiTkdSa00yWTNNemd0T1dWak9DMDBPRGsyTFRrMU0yTXRORGs0WTJGak1UQmlOR0ZoXG4iLCJ1c2VyX2lkIjoiTFE9PVxuIiwibGF1bmNoX3R5cGUiOiJSbWx5YzNRZ1RHRjFibU5vXG4iLCJkZXZpY2VfbmFtZSI6IlZXNXJibTkzYmp0SGIyOW5iR1VnVUdsNFpXdz1cbiIsInJhbSI6Ik15dzVOVElnVFVJPVxuIiwic3RvcmFnZSI6Ik1USXNOelUySUUxQ1xuIiwiY3B1IjoiZG1KdmVEZzJcbiIsImZ3IjoiT0M0d0xqQT1cbiIsImNvdW50cnkiOiJMUT09XG4iLCJjaXR5IjoiTFE9PVxuIiwibG9uZ2l0dWRlIjoiTFE9PVxuIiwibGF0aXR1ZGUiOiJMUT09XG4iLCJ0aW1lX3NwZW50IjoiTFE9PVxuIiwiYWN0aXZpdHlfMSI6IkxRPT1cbiIsImFjdGl2aXR5XzIiOiJMUT09XG4iLCJhY3Rpdml0eV8zIjoiTFE9PVxuIiwiY3VzdG9tMSI6IkxRPT1cbiIsImN1c3RvbTIiOiJMUT09XG4iLCJjdXN0b20zIjoiTFE9PVxuIiwiZW1haWwiOiJMUT09XG4iLCJuYW1lIjoiTFE9PVxuIiwicGhvbmUiOiJMUT09XG4iLCJnZW5kZXIiOiJMUT09XG4iLCJpcF9hZGRyZXNzIjoiTFE9PVxuIiwiY2FycmllciI6IlFXNWtjbTlwWkE9PVxuIiwibmV0d29ya190eXBlIjoiUVdseUlGQnNZVzVsSUUxdlpHVT1cbiIsInBsYXRmb3JtIjoiUVc1a2NtOXBaQT09XG4iLCJ2ZXJzaW9uIjoiTXk0MExqWT1cbiJ9
+```
+after decoded will become like this
 ```
 {
     "appName": "ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\n",
@@ -122,7 +223,43 @@ inside this table stored data like this
     "version": "My40LjY=\n"
 }
 ```
+when the value is decoded will be like this 
 
+```
+{
+  "appName": "d3f8ada8-f460-4c47-8adf-734623258216\n",
+  "event": "Launch Resume\n", 
+  "date_time": "25-Sep-2021 05:24:22:704\n", 
+  "device_id": "4dd3f738-9ec8-4896-953c-498cac10b4aa\n",
+  "user_id": "-\n",
+  "launch_type": "First Launch\n",
+  "device_name": "Unknown;Google Pixel\n",
+  "ram": "3,952 MB\n",
+  "storage": "12,756 MB\n",
+  "cpu": "vbox86\n",
+  "fw": "8.0.0\n",
+  "country": "-\n",
+  "city": "-\n",
+  "longitude": "-\n",
+  "latitude": "-\n",
+  "time_spent": "-\n",
+  "activity_1": "-\n",
+  "activity_2": "-\n",
+  "activity_3": "-\n",
+  "custom1": "-\n",
+  "custom2": "-\n",
+  "custom3": "-\n",
+  "email": "-\n",
+  "name": "-\n",
+  "phone": "-\n",
+  "gender": "-\n",
+  "ip_address": "-\n",
+  "carrier": "Android\n",
+  "network_type": "Air Plane Mode\n",
+  "platform": "Android\n",
+  "version": "3.4.6\n"
+}
+```
 berbeda dengan firebase crashlytic, ini di encode ke base64, dan valuenya di encode ke base64
 
 kenapa nyimpen data activity kaya gini (?)
@@ -143,10 +280,6 @@ kenapa nyimpen data activity kaya gini (?)
 - rowid
 - type
 - entry
-
-`apps`
-
-## Save a file that contain auth session
 
 
 ## Force close application on mock location <a name="exit-onmock-location"></a>
