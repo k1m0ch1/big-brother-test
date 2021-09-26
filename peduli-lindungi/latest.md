@@ -6,21 +6,29 @@ So here the [PeduliLindungi](https://play.google.com/store/apps/details?id=com.t
 
 I do check the apps and I'm not doing full analyze, because there is so many source that I need to analyze, probably this is enough, So here is what I found
 
-## !Disclaimer!!
+and yeah I made a video about this on youtube https://www.youtube.com/watch?v=KExoyqgB1Bk
+
+## !!Disclaimer!!
 
 > What I do to get this information, is a public information, anyone can get it and this is a public information, I'm not use any hacking attempt or breach to get into the system to get the information, this is pure the public information that extracted from the internet without alter the application.
+
+## TL;DR
+1. [MobSF Dynamic Analysis](dynamic-analysis.pdf)
+1. [MobSF Static Analysis](static-analysis.pdf)
+1. [Source Code Decompiled 3.6.6](source-decompiled-3.6.6.zip)
 
 ## List of found
 1. [Technology](#technology)
 2. [Application Permissions](#permissions)
 3. [Weird Traffic](#weird-traffic)
-4. [SQLite](#sqlite)
-5. [CPU, Storage and RAM is stored on firebase](#stored-resources)
-6. [Force close application on mock location](#exit-onmock-location)
-7. [Locally saved location on your device](#location-sqlite)
-8. [Some page will store your access token](#store-access-token)
-9. [Some of the URL is visible at source code](#url-visible)
-10. [some old feature is not deleted](#old-feature)
+4. [HTTP Traffic Caputre Log](http-traffic-capture.txt)
+5. [SQLite](#sqlite)
+6. [CPU, Storage and RAM is stored on firebase](#stored-resources)
+7. [Force close application on mock location](#exit-onmock-location)
+8. [Locally saved location on your device](#location-sqlite)
+9. [Some page will store your access token](#store-access-token)
+10. [Some of the URL is visible at source code](#url-visible)
+11. [some old feature is not deleted](#old-feature)
 
 ## Technology <a name="technology"></a>
 

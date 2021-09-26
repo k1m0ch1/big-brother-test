@@ -1,0 +1,690 @@
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 824
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBBY3Rpdml0eQ==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6MDk6MTUw\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"LQ==\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"LQ==\\n","latitude":"LQ==\\n","time_spent":"NTQ=\\n","activity_1":"QXBwIG9uIFBhdXNl\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"LQ==\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"LQ==\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:05 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 812
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"TGF1bmNoIFJlc3VtZQ==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6MDk6MTAx\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"LQ==\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"LQ==\\n","latitude":"LQ==\\n","time_spent":"LQ==\\n","activity_1":"LQ==\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"LQ==\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"LQ==\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:05 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 824
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBBY3Rpdml0eQ==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6MDk6Njg2\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"LQ==\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"LQ==\\n","latitude":"LQ==\\n","time_spent":"NTkw\\n","activity_1":"QXBwIE9uIFBhdXNl\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"LQ==\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"LQ==\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:05 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 828
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"TGF1bmNoIFJlc3VtZQ==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6MTQ6MTUw\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"LQ==\\n","launch_type":"T24gUmVzdW1l\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"LQ==\\n","latitude":"LQ==\\n","time_spent":"NTkw\\n","activity_1":"QXBwIE9uIFBhdXNl\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"LQ==\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"LQ==\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:10 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 896
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBEZXRhaWxz\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6MjI6Mjc4\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"T24gUmVzdW1l\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"LQ==\\n","latitude":"LQ==\\n","time_spent":"NTkw\\n","activity_1":"QXBwIE9uIFBhdXNl\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"LQ==\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:18 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 904
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBab25l\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6MjM6MzM5\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"T24gUmVzdW1l\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"LQ==\\n","latitude":"LQ==\\n","time_spent":"MA==\\n","activity_1":"QXBwIE9uIFBhdXNl\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:19 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 912
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBMb2NhdGlvbg==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6MjQ6NDAx\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"T24gUmVzdW1l\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"MC4w\\n","latitude":"MC4w\\n","time_spent":"MA==\\n","activity_1":"QXBwIE9uIFBhdXNl\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:20 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 812
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"TGF1bmNoIFJlc3VtZQ==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6NDE6ODAw\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"LQ==\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"LQ==\\n","latitude":"LQ==\\n","time_spent":"LQ==\\n","activity_1":"LQ==\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"LQ==\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"LQ==\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:36 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 880
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBEZXRhaWxz\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6NDQ6NjA5\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"LQ==\\n","latitude":"LQ==\\n","time_spent":"LQ==\\n","activity_1":"LQ==\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"LQ==\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:39 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 888
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBab25l\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6NDQ6NjEz\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"LQ==\\n","latitude":"LQ==\\n","time_spent":"MA==\\n","activity_1":"LQ==\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:39 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 896
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBMb2NhdGlvbg==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6NDQ6NjQx\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"MC4w\\n","latitude":"MC4w\\n","time_spent":"MA==\\n","activity_1":"LQ==\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:39 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 892
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBEZXRhaWxz\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6NTA6NDEx\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"MC4w\\n","latitude":"MC4w\\n","time_spent":"MA==\\n","activity_1":"LQ==\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:44 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 888
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBab25l\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6NTA6NDEz\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"MC4w\\n","latitude":"MC4w\\n","time_spent":"MA==\\n","activity_1":"LQ==\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:44 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 896
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBMb2NhdGlvbg==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6NTA6NDE5\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"MC4w\\n","latitude":"MC4w\\n","time_spent":"MA==\\n","activity_1":"LQ==\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:44 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 908
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBBY3Rpdml0eQ==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6NTE6NjA5\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"MC4w\\n","latitude":"MC4w\\n","time_spent":"MA==\\n","activity_1":"T3BlbiBQcm9maWxl\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:46 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+
+========
+REQUEST
+========
+POST https://app-measurement.com/a HTTP/1.1
+Content-Encoding: gzip
+Content-Length: 936
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.0.0; Google Pixel Build/OPR6.170623.017)
+Host: app-measurement.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+b"\n\xeb\t\x08\x01\x12\xc2\x01\n\x1b\n\x0cnavigated_to\x12\x0bcari_zonasi\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x8e\xc5\xff\xc4\xde\xad\xfb\xd9\xab\x01\n!\n\ttimestamp\x12\x1425 Sep 2021 14:27:55\x12\x0fhome_navigation\x18\xbe\x80\xec\xea\xc1/ \xf8\xf1\x8c\xe8\xc1/\x12\xcb\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x8e\xc5\xff\xc4\xde\xad\xfb\xd9\xab\x01\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 14:28:56\x12\x19ACCOUNT_1_Halaman_Account\x18\xcb\xde\xef\xea\xc1/ \x86\xe9\xc5\xe8\xc1/\x12\xd1\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x8e\xc5\xff\xc4\xde\xad\xfb\xd9\xab\x01\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 14:28:56\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\x81\xdf\xef\xea\xc1/ \x9d\xe9\xc5\xe8\xc1/\x1a\x14\x08\xec\x87\xff\xe7\xc1/\x12\x04_fot \x80\x81\xaa\xe8\xc1/\x1a\x0e\x08\xec\x87\xff\xe7\xc1/\x12\x03_fi \x01\x1a\x0f\x08\xd1\x89\xff\xe7\xc1/\x12\x04_sno \x01\x1a\x13\x08\xd1\x89\xff\xe7\xc1/\x12\x04_sid \x90\xb5\xbc\x8a\x06\x1a2\x08\x82\xa4\x87\xe8\xc1/\x12\x03_id\x1a$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\x1a'\x08\x82\xa4\x87\xe8\xc1/\x12\x04NAME\x1a\x18Yahya Fadhluloh Al Fatij\x1a*\x08\x82\xa4\x87\xe8\xc1/\x12\x0bLOGGED_WHEN\x1a\x1425 Sep 2021 12:50:31\x1a*\x08\x82\xa4\x87\xe8\xc1/\x12\x0bDEVICE_TYPE\x1a\x14Unknown;Google Pixel\x1a\x14\x08\x82\xa4\x87\xe8\xc1/\x12\x03CPU\x1a\x06vbox86\x1a\x1b\x08\x82\xa4\x87\xe8\xc1/\x12\x07STORAGE\x1a\t12,756 MB\x1a\x16\x08\x82\xa4\x87\xe8\xc1/\x12\x03RAM\x1a\x083,952 MB\x1a\x11\x08\xb4\xaf\xcf\xef\xc1/\x12\x04_lte \xc5\xf4\x07\x1a\x10\x08\xb5\xaf\xcf\xef\xc1/\x12\x03_se \xc4\xf4\x07 \x9f\xaf\xcf\xef\xc1/(\xbe\x80\xec\xea\xc1/0\x81\xdf\xef\xea\xc1/8\x9d\xe9\xc5\xe8\xc1/B\x07androidJ\x058.0.0R\x0cGoogle PixelZ\x05en-us`\x00j\x0emanual_installr\x15com.telkom.tracencare\x82\x01\x053.4.6\x88\x01\x81\x82\x02\x90\x01\x81\x82\x02\xaa\x01 27319aa4e3a45190ffa1419b5acaee5b\xb0\x01\xa8\xd9\xc1\x91\xb1\xa3\x97\x8fc\xb8\x01\x07\xca\x01-1:319723137903:android:f5eec859b692383a2e969a\xd0\x01\xd4\xb1\xb9\xe8\xc1/\xe0\x01\x00\xf2\x01\x16evXdmP5gSBOWjZU1oKRbHf\xf8\x01f\x98\x02\xea\xb0\xe9\xcf\xd2\xca\xf2\x02\xf0\x02\x14\n\x82\x06\x08\x01\x126\n\n\n\x02_o\x12\x04auto\n\x0c\n\x04_sid\x18\x97\xe5\xbc\x8a\x06\n\x08\n\x04_sno\x18\x02\x12\x02_s\x18\x8e\xbd\xf6\xea\xc1/ \xd1\x89\xff\xe7\xc1/\x12F\n\n\n\x02_o\x12\x04auto\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\xc2\xae\xd9\xd0\xc8\xa8\xb4\xa5\x89\x01\x12\x03_vs\x18\xff\xbe\xf6\xea\xc1/ \xf8\xd2\xc5\xe8\xc1/\x1a\x14\x08\xec\x87\xff\xe7\xc1/\x12\x04_fot \x80\x81\xaa\xe8\xc1/\x1a\x0e\x08\xec\x87\xff\xe7\xc1/\x12\x03_fi \x01\x1a2\x08\x82\xa4\x87\xe8\xc1/\x12\x03_id\x1a$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\x1a'\x08\x82\xa4\x87\xe8\xc1/\x12\x04NAME\x1a\x18Yahya Fadhluloh Al Fatij\x1a*\x08\x82\xa4\x87\xe8\xc1/\x12\x0bLOGGED_WHEN\x1a\x1425 Sep 2021 12:50:31\x1a*\x08\x82\xa4\x87\xe8\xc1/\x12\x0bDEVICE_TYPE\x1a\x14Unknown;Google Pixel\x1a\x14\x08\x82\xa4\x87\xe8\xc1/\x12\x03CPU\x1a\x06vbox86\x1a\x1b\x08\x82\xa4\x87\xe8\xc1/\x12\x07STORAGE\x1a\t12,756 MB\x1a\x16\x08\x82\xa4\x87\xe8\xc1/\x12\x03RAM\x1a\x083,952 MB\x1a\x11\x08\xcd\xaf\xcf\xef\xc1/\x12\x04_lte \xc5\xf4\x07\x1a\x0e\x08\xcd\xaf\xcf\xef\xc1/\x12\x03_se \x00\x1a\x0f\x08\x8e\xbd\xf6\xea\xc1/\x12\x04_sno \x02\x1a\x13\x08\x8e\xbd\xf6\xea\xc1/\x12\x04_sid \x97\xe5\xbc\x8a\x06 \x9f\xaf\xcf\xef\xc1/(\x8e\xbd\xf6\xea\xc1/0\xff\xbe\xf6\xea\xc1/8\x81\xdf\xef\xea\xc1/B\x07androidJ\x058.0.0R\x0cGoogle PixelZ\x05en-us`\x00j\x0emanual_installr\x15com.telkom.tracencare\x82\x01\x053.4.6\x88\x01\x81\x82\x02\x90\x01\x81\x82\x02\xaa\x01 27319aa4e3a45190ffa1419b5acaee5b\xb0\x01\xa8\xd9\xc1\x91\xb1\xa3\x97\x8fc\xb8\x01\x08\xca\x01-1:319723137903:android:f5eec859b692383a2e969a\xd0\x01\xbe\x80\xec\xea\xc1/\xe0\x01\x00\xf2\x01\x16evXdmP5gSBOWjZU1oKRbHf\xf8\x01f\x98\x02\xea\xb0\xe9\xcf\xd2\xca\xf2\x02\xf0\x02\x14"
+=========
+RESPONSE
+=========
+HTTP/1.1 204 No Content
+Date: Sat, 25 Sep 2021 17:39:46 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Type: image/gif
+Cross-Origin-Resource-Policy: cross-origin
+Server: Golfe2
+Content-Length: 0
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+========
+REQUEST
+========
+POST https://app-measurement.com/a HTTP/1.1
+Content-Encoding: gzip
+Content-Length: 2378
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.0.0; Google Pixel Build/OPR6.170623.017)
+Host: app-measurement.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+b'\n\x99G\x08\x01\x126\n\n\n\x02_o\x12\x04auto\n\x0c\n\x04_sid\x18\xcf\xa6\xbd\x8a\x06\n\x08\n\x04_sno\x18\x03\x12\x02_s\x18\xb0\xda\xf5\xee\xc1/ \x8e\xbd\xf6\xea\xc1/\x12E\n\n\n\x02_o\x12\x04auto\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\x12\x03_vs\x18\xbb\xdc\xf5\xee\xc1/ \xff\xbe\xf6\xea\xc1/\x12\xca\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:50:42\x12\x19ACCOUNT_1_Halaman_Account\x18\xe2\xf3\xf6\xee\xc1/ \xcb\xde\xef\xea\xc1/\x12\xd0\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:50:45\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\xde\x8a\xf7\xee\xc1/ \x81\xdf\xef\xea\xc1/\x12\xb7\x01\n\x1c\n\x0cnavigated_to\x12\x0cedit_profile\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n!\n\ttimestamp\x12\x1425 Sep 2021 16:51:04\x12\x04akun\x18\xa4\x9a\xf8\xee\xc1/ \x9b\xdc\x8e\xe8\xc1/\x12\xd9\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:51:04\x12(EDIT_ACCOUNT_1_Halaman_Edit_Data_Account\x18\xf1\x9b\xf8\xee\xc1/ \xbe\xdc\x8e\xe8\xc1/\x12\xca\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:54:14\x12\x19ACCOUNT_1_Halaman_Account\x18\xcf\xec\x83\xef\xc1/ \xe2\xf3\xf6\xee\xc1/\x12\xd0\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:54:15\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\xda\xf4\x83\xef\xc1/ \xde\x8a\xf7\xee\xc1/\x12\xb7\x01\n\x1c\n\x0cnavigated_to\x12\x0ctiket_vaksin\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n!\n\ttimestamp\x12\x1425 Sep 2021 16:54:18\x12\x04akun\x18\x91\x85\x84\xef\xc1/ \xa4\x9a\xf8\xee\xc1/\x12\xca\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:56:24\x12\x19ACCOUNT_1_Halaman_Account\x18\x80\xe1\x8b\xef\xc1/ \xcf\xec\x83\xef\xc1/\x12\xd0\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:56:25\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\xb9\xe7\x8b\xef\xc1/ \xda\xf4\x83\xef\xc1/\x12\xbc\x01\n!\n\x0cnavigated_to\x12\x11sertifikat_vaksin\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n!\n\ttimestamp\x12\x1425 Sep 2021 16:56:28\x12\x04akun\x18\xfe\xfd\x8b\xef\xc1/ \x91\x85\x84\xef\xc1/\x12\xca\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:56:39\x12\x19ACCOUNT_1_Halaman_Account\x18\xcf\xd7\x8c\xef\xc1/ \x80\xe1\x8b\xef\xc1/\x12\xd0\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:56:40\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\x9d\xde\x8c\xef\xc1/ \xb9\xe7\x8b\xef\xc1/\x12\xb1\x01\n\x16\n\x0cnavigated_to\x12\x06rating\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n!\n\ttimestamp\x12\x1425 Sep 2021 16:56:43\x12\x04akun\x18\x92\xf6\x8c\xef\xc1/ \xfe\xfd\x8b\xef\xc1/\x12O\n\n\n\x02_o\x12\x04auto\n\t\n\x03_et\x18\xfb\x99\x17\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\x12\x02_e\x18\x98\x80\x8d\xef\xc1/ \x9a\x88\x89\xe8\xc1/\x12\xb7\x01\n\x1c\n\x0cnavigated_to\x12\x0cedit_profile\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n!\n\ttimestamp\x12\x1425 Sep 2021 16:56:50\x12\x04akun\x18\x8a\xae\x8d\xef\xc1/ \x92\xf6\x8c\xef\xc1/\x12\xd9\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:56:50\x12(EDIT_ACCOUNT_1_Halaman_Edit_Data_Account\x18\x95\xaf\x8d\xef\xc1/ \xf1\x9b\xf8\xee\xc1/\x12\xca\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:57:07\x12\x19ACCOUNT_1_Halaman_Account\x18\xda\xb4\x8e\xef\xc1/ \xcf\xd7\x8c\xef\xc1/\x12\xd0\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:57:08\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\xf2\xbc\x8e\xef\xc1/ \x9d\xde\x8c\xef\xc1/\x12\xc8\x01\n"\n\x0cnavigated_to\x12\x12pendaftaran_vaksin\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n!\n\ttimestamp\x12\x1425 Sep 2021 16:57:47\x12\x0fhome_navigation\x18\x9d\xeb\x90\xef\xc1/ \xbe\x80\xec\xea\xc1/\x12\xca\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:57:50\x12\x19ACCOUNT_1_Halaman_Account\x18\xa6\x83\x91\xef\xc1/ \xda\xb4\x8e\xef\xc1/\x12\xd0\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:57:52\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\xc0\x8d\x91\xef\xc1/ \xf2\xbc\x8e\xef\xc1/\x12\xc2\x01\n\x1c\n\x0cnavigated_to\x12\x0cscan_qr_code\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n!\n\ttimestamp\x12\x1425 Sep 2021 16:57:53\x12\x0fhome_navigation\x18\x99\x98\x91\xef\xc1/ \x9d\xeb\x90\xef\xc1/\x12\xc2\x01\n\x1c\n\x0cnavigated_to\x12\x0cscan_qr_code\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n!\n\ttimestamp\x12\x1425 Sep 2021 16:57:53\x12\x0fhome_navigation\x18\x99\x98\x91\xef\xc1/ \x99\x98\x91\xef\xc1/\x12\xc5\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:57:54\x12\x19Scan_Qr_1_Halaman_Scan_Qr\x18\xaa\xa0\x91\xef\xc1/ \x00\x12\xca\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:58:01\x12\x19ACCOUNT_1_Halaman_Account\x18\x96\xda\x91\xef\xc1/ \xa6\x83\x91\xef\xc1/\x12\xd0\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:58:04\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\xc9\xf0\x91\xef\xc1/ \xc0\x8d\x91\xef\xc1/\x12\xc0\x01\n\x1a\n\x0cnavigated_to\x12\nteledokter\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n!\n\ttimestamp\x12\x1425 Sep 2021 16:58:07\x12\x0fhome_navigation\x18\xef\x87\x92\xef\xc1/ \x99\x98\x91\xef\xc1/\x12\xca\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:58:14\x12\x19ACCOUNT_1_Halaman_Account\x18\xe3\xbc\x92\xef\xc1/ \x96\xda\x91\xef\xc1/\x12\xd0\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:58:16\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\xa8\xcb\x92\xef\xc1/ \xc9\xf0\x91\xef\xc1/\x12\xc2\x01\n\x1c\n\x0cnavigated_to\x12\x0cinfo_penting\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n!\n\ttimestamp\x12\x1425 Sep 2021 16:58:18\x12\x0fhome_navigation\x18\x90\xdb\x92\xef\xc1/ \xef\x87\x92\xef\xc1/\x12\xd4\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:58:21\x12#NOTIFICATION_1_Halaman_Notification\x18\xdb\xf5\x92\xef\xc1/ \xa5\xb5\x8c\xe8\xc1/\x12\xc6\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:58:24\x12\x15PESAN_1_Halaman_Pesan\x18\xf3\x8b\x93\xef\xc1/ \xae\xb5\x8c\xe8\xc1/\x12\x81\x01\n\n\n\x02_o\x12\x04auto\n\x07\n\x03_el\x18\x1f\n&\n\x03_ev\x12\x1fPESAN 2. Halaman Pesan Berhasil\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n\x08\n\x04_err\x18\x02\x12\x04_err\x18\x9a\x8f\x93\xef\xc1/ \x94\xb6\x8c\xe8\xc1/\x12\xb0\x01\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n\r\n\x04menu\x12\x05Pesan\n!\n\ttimestamp\x12\x1425 Sep 2021 16:58:26\x12\x0cinfo_penting\x18\xd8\x9c\x93\xef\xc1/ \xf8\xcf\x8c\xe8\xc1/\x12\xca\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:58:29\x12\x19ACCOUNT_1_Halaman_Account\x18\xc9\xb1\x93\xef\xc1/ \xe3\xbc\x92\xef\xc1/\x12\xd0\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:58:31\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\xc5\xbe\x93\xef\xc1/ \xa8\xcb\x92\xef\xc1/\x12\xc6\x01\n \n\x0cnavigated_to\x12\x10diari_perjalanan\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n!\n\ttimestamp\x12\x1425 Sep 2021 16:59:01\x12\x0fhome_navigation\x18\xb0\xae\x95\xef\xc1/ \x90\xdb\x92\xef\xc1/\x12\xd3\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:59:02\x12\'DIARY_1_Halaman_Diary_Lokasi_Perjalanan\x18\xef\xb1\x95\xef\xc1/ \x00\x12\xc1\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:59:07\x12\x15DIARY_1_Halaman_Diary\x18\xcb\xdc\x95\xef\xc1/ \x00\x12\xca\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:59:15\x12\x1eDIARY_2_Halaman_Diary_Berhasil\x18\x8a\x98\x96\xef\xc1/ \x00\x12\xca\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:59:23\x12\x19ACCOUNT_1_Halaman_Account\x18\xf6\xd9\x96\xef\xc1/ \xc9\xb1\x93\xef\xc1/\x12\xd0\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 16:59:25\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\xca\xe6\x96\xef\xc1/ \xc5\xbe\x93\xef\xc1/\x1a\x14\x08\xec\x87\xff\xe7\xc1/\x12\x04_fot \x80\x81\xaa\xe8\xc1/\x1a\x0e\x08\xec\x87\xff\xe7\xc1/\x12\x03_fi \x01\x1a2\x08\x82\xa4\x87\xe8\xc1/\x12\x03_id\x1a$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\x1a\'\x08\x82\xa4\x87\xe8\xc1/\x12\x04NAME\x1a\x18Yahya Fadhluloh Al Fatij\x1a*\x08\x82\xa4\x87\xe8\xc1/\x12\x0bLOGGED_WHEN\x1a\x1425 Sep 2021 12:50:31\x1a*\x08\x82\xa4\x87\xe8\xc1/\x12\x0bDEVICE_TYPE\x1a\x14Unknown;Google Pixel\x1a\x14\x08\x82\xa4\x87\xe8\xc1/\x12\x03CPU\x1a\x06vbox86\x1a\x1b\x08\x82\xa4\x87\xe8\xc1/\x12\x07STORAGE\x1a\t12,756 MB\x1a\x16\x08\x82\xa4\x87\xe8\xc1/\x12\x03RAM\x1a\x083,952 MB\x1a\x11\x08\xbe\xb1\xcf\xef\xc1/\x12\x04_lte \xc0\x8e\x1f\x1a\x10\x08\xbe\xb1\xcf\xef\xc1/\x12\x03_se \xfb\x99\x17\x1a\x0f\x08\xb0\xda\xf5\xee\xc1/\x12\x04_sno \x03\x1a\x13\x08\xb0\xda\xf5\xee\xc1/\x12\x04_sid \xcf\xa6\xbd\x8a\x06 \x8a\xb1\xcf\xef\xc1/(\xb0\xda\xf5\xee\xc1/0\xca\xe6\x96\xef\xc1/8\xff\xbe\xf6\xea\xc1/B\x07androidJ\x058.0.0R\x0cGoogle PixelZ\x05en-us`\x00j\x0emanual_installr\x15com.telkom.tracencare\x82\x01\x053.4.6\x88\x01\x81\x82\x02\x90\x01\x81\x82\x02\xaa\x01 27319aa4e3a45190ffa1419b5acaee5b\xb0\x01\xa8\xd9\xc1\x91\xb1\xa3\x97\x8fc\xb8\x01\t\xca\x01-1:319723137903:android:f5eec859b692383a2e969a\xd0\x01\x8e\xbd\xf6\xea\xc1/\xe0\x01\x00\xf2\x01\x16evXdmP5gSBOWjZU1oKRbHf\xf8\x01f\x98\x02\xea\xb0\xe9\xcf\xd2\xca\xf2\x02\xf0\x02\x14\n\xdb*\x08\x01\x12\xc5\x01\n\x1f\n\x0cnavigated_to\x12\x0fpasspor_digital\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n!\n\ttimestamp\x12\x1425 Sep 2021 17:04:10\x12\x0fhome_navigation\x18\x96\x9d\xa8\xef\xc1/ \xb0\xae\x95\xef\xc1/\x12\xf0\x01\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n\x18\n\x04menu\x12\x10passport_digital\n!\n\ttimestamp\x12\x1425 Sep 2021 17:04:12\n\x19\n\x14is_certificate_empty\x12\x01-\n\x19\n\x14is_test_result_empty\x12\x01-\x12\x10passport_digital\x18\x8e\xa7\xa8\xef\xc1/ \x00\x12\xfb\x01\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n\x1b\n\x04menu\x12\x13hasil_test_covid_19\n!\n\ttimestamp\x12\x1425 Sep 2021 17:04:17\n\x19\n\x14is_certificate_empty\x12\x01-\n\x1c\n\x14is_test_result_empty\x12\x04true\x12\x10passport_digital\x18\xd6\xcd\xa8\xef\xc1/ \x8e\xa7\xa8\xef\xc1/\x12\xca\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 17:04:21\x12\x19ACCOUNT_1_Halaman_Account\x18\xdd\xf0\xa8\xef\xc1/ \xf6\xd9\x96\xef\xc1/\x12\xd0\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 17:04:24\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\x91\x85\xa9\xef\xc1/ \xca\xe6\x96\xef\xc1/\x12\xba\x01\n\x14\n\x0cnavigated_to\x12\x04ehac\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n!\n\ttimestamp\x12\x1425 Sep 2021 17:04:25\x12\x0fhome_navigation\x18\xb5\x91\xa9\xef\xc1/ \x96\x9d\xa8\xef\xc1/\x12\xca\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 17:04:55\x12\x19ACCOUNT_1_Halaman_Account\x18\xbc\xf7\xaa\xef\xc1/ \xdd\xf0\xa8\xef\xc1/\x12\xd0\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x0f\n\x03_si\x18\xc5\x98\x92\xf6\xdf\xf9\xf1\xdea\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 17:04:57\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\xb6\x85\xab\xef\xc1/ \x91\x85\xa9\xef\xc1/\x12F\n\n\n\x02_o\x12\x04auto\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\xf7\xd9\xda\xe3\xfa\xe5\xce\xbe\xac\x01\x12\x03_vs\x18\xb7\xe5\xad\xef\xc1/ \xbb\xdc\xf5\xee\xc1/\x12\xcb\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\xf7\xd9\xda\xe3\xfa\xe5\xce\xbe\xac\x01\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 17:05:45\x12\x19ACCOUNT_1_Halaman_Account\x18\xa6\x81\xae\xef\xc1/ \xbc\xf7\xaa\xef\xc1/\x12\xd1\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\xf7\xd9\xda\xe3\xfa\xe5\xce\xbe\xac\x01\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 17:05:45\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\xd5\x81\xae\xef\xc1/ \xb6\x85\xab\xef\xc1/\x12\xc9\x01\n"\n\x0cnavigated_to\x12\x12pendaftaran_vaksin\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\xf7\xd9\xda\xe3\xfa\xe5\xce\xbe\xac\x01\n!\n\ttimestamp\x12\x1425 Sep 2021 17:12:50\x12\x0fhome_navigation\x18\x8b\xfc\xc7\xef\xc1/ \xb5\x91\xa9\xef\xc1/\x12\xcb\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\xf7\xd9\xda\xe3\xfa\xe5\xce\xbe\xac\x01\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 17:12:52\x12\x19ACCOUNT_1_Halaman_Account\x18\xdb\x89\xc8\xef\xc1/ \xa6\x81\xae\xef\xc1/\x12\xd1\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\xf7\xd9\xda\xe3\xfa\xe5\xce\xbe\xac\x01\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 17:12:52\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\xf7\x89\xc8\xef\xc1/ \xd5\x81\xae\xef\xc1/\x12F\n\n\n\x02_o\x12\x04auto\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x99\xb3\xb1\xee\x84\x92\xfe\xf2\x88\x01\x12\x03_vs\x18\xfa\xde\xcc\xef\xc1/ \xb7\xe5\xad\xef\xc1/\x12m\n\n\n\x02_o\x12\x04auto\n\x13\n\x03_pc\x12\x0cMainActivity\n\x10\n\x03_pi\x18\x99\xb3\xb1\xee\x84\x92\xfe\xf2\x88\x01\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x9a\xb3\xb1\xee\x84\x92\xfe\xf2\x88\x01\x12\x03_vs\x18\xe9\x94\xcd\xef\xc1/ \xfa\xde\xcc\xef\xc1/\x12F\n\n\n\x02_o\x12\x04auto\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x9a\xb3\xb1\xee\x84\x92\xfe\xf2\x88\x01\x12\x03_ab\x18\xbc\xf4\xcc\xef\xc1/ \xa8\x88\x89\xe8\xc1/\x12\xcb\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x9a\xb3\xb1\xee\x84\x92\xfe\xf2\x88\x01\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 17:14:28\x12\x19ACCOUNT_1_Halaman_Account\x18\xe4\xf3\xcd\xef\xc1/ \xdb\x89\xc8\xef\xc1/\x12\xd1\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x9a\xb3\xb1\xee\x84\x92\xfe\xf2\x88\x01\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 17:14:32\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\x81\x99\xce\xef\xc1/ \xf7\x89\xc8\xef\xc1/\x12F\n\n\n\x02_o\x12\x04auto\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x99\xb3\xb1\xee\x84\x92\xfe\xf2\x88\x01\x12\x03_vs\x18\x8f\xde\xce\xef\xc1/ \xe9\x94\xcd\xef\xc1/\x12u\n\t\n\x02_o\x12\x03clx\n\x06\n\x02_r\x18\x01\n\x07\n\x03_et\x18S\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x99\xb3\xb1\xee\x84\x92\xfe\xf2\x88\x01\n\x12\n\ttimestamp\x18\xc7\x9d\xce\xef\xc1/\n\t\n\x05fatal\x18\x01\x12\x03_ae\x18\x98\xde\xce\xef\xc1/ \xfe\xc2\xb7\xe8\xc1/\x12W\n\n\n\x02_o\x12\x04auto\n\x07\n\x03_et\x18`\n\x07\n\x03_fr\x18\x01\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x99\xb3\xb1\xee\x84\x92\xfe\xf2\x88\x01\x12\x02_e\x18\xe8\xde\xce\xef\xc1/ \x98\x80\x8d\xef\xc1/\x12\xcb\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x99\xb3\xb1\xee\x84\x92\xfe\xf2\x88\x01\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 17:14:44\x12\x19ACCOUNT_1_Halaman_Account\x18\xf5\xf5\xce\xef\xc1/ \xe4\xf3\xcd\xef\xc1/\x12\xd1\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x99\xb3\xb1\xee\x84\x92\xfe\xf2\x88\x01\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 17:14:44\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\x97\xf6\xce\xef\xc1/ \x81\x99\xce\xef\xc1/\x12\xc9\x01\n"\n\x0cnavigated_to\x12\x12pendaftaran_vaksin\n/\n\x07user_id\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x99\xb3\xb1\xee\x84\x92\xfe\xf2\x88\x01\n!\n\ttimestamp\x12\x1425 Sep 2021 17:14:48\x12\x0fhome_navigation\x18\xa2\x92\xcf\xef\xc1/ \x8b\xfc\xc7\xef\xc1/\x12\xcb\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x99\xb3\xb1\xee\x84\x92\xfe\xf2\x88\x01\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 17:14:50\x12\x19ACCOUNT_1_Halaman_Account\x18\xc8\xa1\xcf\xef\xc1/ \xf5\xf5\xce\xef\xc1/\x12\xd1\x01\n.\n\x06userId\x12$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\n\t\n\x02_o\x12\x03app\n\x13\n\x03_sc\x12\x0cMainActivity\n\x10\n\x03_si\x18\x99\xb3\xb1\xee\x84\x92\xfe\xf2\x88\x01\n \n\x04name\x12\x18Yahya Fadhluloh Al Fatij\n\x1c\n\x04time\x12\x1425 Sep 2021 17:14:50\x12\x1fSTATISTICS_1_Halaman_Statistics\x18\xf0\xa1\xcf\xef\xc1/ \x97\xf6\xce\xef\xc1/\x1a\x14\x08\xec\x87\xff\xe7\xc1/\x12\x04_fot \x80\x81\xaa\xe8\xc1/\x1a\x0e\x08\xec\x87\xff\xe7\xc1/\x12\x03_fi \x01\x1a2\x08\x82\xa4\x87\xe8\xc1/\x12\x03_id\x1a$f08ebc50-16c4-11ec-81fc-a17f5e5acefc\x1a\'\x08\x82\xa4\x87\xe8\xc1/\x12\x04NAME\x1a\x18Yahya Fadhluloh Al Fatij\x1a*\x08\x82\xa4\x87\xe8\xc1/\x12\x0bLOGGED_WHEN\x1a\x1425 Sep 2021 12:50:31\x1a*\x08\x82\xa4\x87\xe8\xc1/\x12\x0bDEVICE_TYPE\x1a\x14Unknown;Google Pixel\x1a\x14\x08\x82\xa4\x87\xe8\xc1/\x12\x03CPU\x1a\x06vbox86\x1a\x1b\x08\x82\xa4\x87\xe8\xc1/\x12\x07STORAGE\x1a\t12,756 MB\x1a\x16\x08\x82\xa4\x87\xe8\xc1/\x12\x03RAM\x1a\x083,952 MB\x1a\x11\x08\xf7\xb1\xcf\xef\xc1/\x12\x04_lte \xa0\x8f\x1f\x1a\x10\x08\xf8\xb1\xcf\xef\xc1/\x12\x03_se \xdb\x9a\x17\x1a\x0f\x08\xb0\xda\xf5\xee\xc1/\x12\x04_sno \x03\x1a\x13\x08\xb0\xda\xf5\xee\xc1/\x12\x04_sid \xcf\xa6\xbd\x8a\x06 \x8a\xb1\xcf\xef\xc1/(\x96\x9d\xa8\xef\xc1/0\xf0\xa1\xcf\xef\xc1/8\xca\xe6\x96\xef\xc1/B\x07androidJ\x058.0.0R\x0cGoogle PixelZ\x05en-us`\x00j\x0emanual_installr\x15com.telkom.tracencare\x82\x01\x053.4.6\x88\x01\x81\x82\x02\x90\x01\x81\x82\x02\xaa\x01 27319aa4e3a45190ffa1419b5acaee5b\xb0\x01\xa8\xd9\xc1\x91\xb1\xa3\x97\x8fc\xb8\x01\n\xca\x01-1:319723137903:android:f5eec859b692383a2e969a\xd0\x01\xb0\xda\xf5\xee\xc1/\xe0\x01\x00\xf2\x01\x16evXdmP5gSBOWjZU1oKRbHf\xf8\x01f\x98\x02\xea\xb0\xe9\xcf\xd2\xca\xf2\x02\xf0\x02\x14'
+=========
+RESPONSE
+=========
+HTTP/1.1 204 No Content
+Date: Sat, 25 Sep 2021 17:39:46 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Type: image/gif
+Cross-Origin-Resource-Policy: cross-origin
+Server: Golfe2
+Content-Length: 0
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 928
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBBY3Rpdml0eQ==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6NTQ6MTc0\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"MC4w\\n","latitude":"MC4w\\n","time_spent":"MA==\\n","activity_1":"RWRpdCBQcm9maWxl\\n","activity_2":"T3BlbiBFZGl0IFByb2ZpbGU=\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:48 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 924
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBEZXRhaWxz\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6NTY6ODQx\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"MC4w\\n","latitude":"MC4w\\n","time_spent":"MA==\\n","activity_1":"RWRpdCBQcm9maWxl\\n","activity_2":"T3BlbiBFZGl0IFByb2ZpbGU=\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:51 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 920
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBab25l\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6NTY6ODQz\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"MC4w\\n","latitude":"MC4w\\n","time_spent":"MA==\\n","activity_1":"RWRpdCBQcm9maWxl\\n","activity_2":"T3BlbiBFZGl0IFByb2ZpbGU=\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:51 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 928
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBMb2NhdGlvbg==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6NTY6ODU4\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"MC4w\\n","latitude":"MC4w\\n","time_spent":"MA==\\n","activity_1":"RWRpdCBQcm9maWxl\\n","activity_2":"T3BlbiBFZGl0IFByb2ZpbGU=\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:51 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 912
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBBY3Rpdml0eQ==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6NTg6Mzgx\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"MC4w\\n","latitude":"MC4w\\n","time_spent":"MTY1ODY=\\n","activity_1":"QXBwIG9uIFBhdXNl\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:52 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 912
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBBY3Rpdml0eQ==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTQ6NTg6OTAw\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"MC4w\\n","latitude":"MC4w\\n","time_spent":"MTcxMDI=\\n","activity_1":"QXBwIE9uIFBhdXNl\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:39:53 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+========
+REQUEST
+========
+CONNECT api2.pedulilindungi.id:443 HTTP/1.1
+Host: api2.pedulilindungi.id:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/4.6.0
+=========
+RESPONSE
+=========
+HTTP/1.1 502 Bad Gateway
+content-length: 65
+
+
+b'Cannot connect to api2.pedulilindungi.id:443: client disconnected'
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 812
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"TGF1bmNoIFJlc3VtZQ==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTU6MDU6Nzk5\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"LQ==\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"LQ==\\n","latitude":"LQ==\\n","time_spent":"LQ==\\n","activity_1":"LQ==\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"LQ==\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"LQ==\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:40:01 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 880
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBEZXRhaWxz\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTU6MjI6MzE2\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"LQ==\\n","latitude":"LQ==\\n","time_spent":"LQ==\\n","activity_1":"LQ==\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"LQ==\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:40:25 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 888
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBab25l\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTU6MjI6OTIz\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"LQ==\\n","latitude":"LQ==\\n","time_spent":"MA==\\n","activity_1":"LQ==\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:40:25 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+========
+REQUEST
+========
+GET https://api.pedulilindungi.id/users/v1/feedwall HTTP/2.0
+authorization: Bearer REDACTED
+content-type: application/json
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:40:26 GMT
+content-type: application/json
+vary: Accept-Encoding
+strict-transport-security: max-age=15724800; includeSubDomains
+content-encoding: gzip
+
+
+b'{"success":true,"data":[{"feedWallId":"a969ed81-7eed-4c50-a08d-bcb142bc14be","source":"instagram","username":"-","date":"2021-07-26T05:34:54+07:00","avatar":"https://instagram.fcgk18-1.fna.fbcdn.net/v/t51.2885-15/e35/223673103_3077558805798313_7537183896206738281_n.jpg?se=7&_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=3PJ1s_ZZsL8AX-rMKTz&edm=ABZsPhsBAAAA&ccb=7-4&oh=368c3fb0bc2c1528d3d1a9b8a43b874c&oe=61051925&_nc_sid=4efc9f","caption":"\xe2\x80\x9cUdah vaksin masih bisa positif? Terus, nggak ada bedanya dong sama yg belum vaksin??\xe2\x80\x9d\\n\\nTentu beda dong, Sobat Sehat. \\n\\nJika sudah vaksin dan terpapar Covid-19, gejalanya akan cenderung ringan, cepat sembuh, dan memiliki risiko kematian yang rendah. Orang yang sudah divaksin pun akan memiliki risiko menularkan virus lebih rendah.\\n\\nSetelah vaksin, antibodi tidak akan langsung 100% terbentuk dengan sempurna dan membuat kita menjadi kebal. Imun tubuh akan terbentuk secara bertahap dan setiap orang jg memiliki reaksi yang berbeda.\\n\\nYang belum vaksin, yuk segera vaksin biar pandemi cepat selesai. Dan yang sudah vaksin, jangan lupa tetap taat sama prokes ya! Semua kebutuhan kesehatanmu bisa didapatkan di Apotek K-24. Lengkap 24 jam!\\n\\n#vaksin #prokes #pakaimasker #handsanitizer #vitamin #vaksinasi #sobatsehat #tipssehat #infosehat #K24ApoteknyaIndonesia #K2419Juli21 #K24East19Juli21","createdAt":"2021-07-25T23:00:26.218Z","lastModified":"2021-07-25T23:00:26.218Z"},{"feedWallId":"95fd9683-48d7-4306-a870-0d82b47dc1b0","source":"instagram","username":"-","date":"2021-07-25T22:40:11+07:00","avatar":"https://instagram.fcgk18-2.fna.fbcdn.net/v/t51.2885-15/e35/225636442_4211617588916704_1142478488310627504_n.jpg?se=7&_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=baYsd8hHiGQAX_w1Jz9&edm=ABZsPhsBAAAA&ccb=7-4&oh=2667c4645466bfa98f4d4ce016ef9ef6&oe=61046EFC&_nc_sid=4efc9f","caption":"Reposted from @ganjar_pranowo Yg sekarang punya waktu luang. Ikuti obrolan keren ini. Now!\\n___\\nWajib Follow/Support: \xf0\x9f\x91\x87\\n@ganjar_pranowo2024\\n@ganjar_pranowo2024\\n@ganjar_pranowo2024\\n.\\n#ganjarpranowo #capres #sahabatganjarpranowo #indonesiamaju #ridwankamil #jawa #jateng #JatengGayeng #gibranrakabumingraka #ganjar_pranowo #ganjarist  #fansganjarpranowo #fansmasganjar  #infojateng #viral #semarang #jateng #polisi #vaksin #sinovac #vaksinasi #harilahirpancasila #pilpres2024 #bhinekatunggalika #pancasila #PDIPerjuangan #capres2024 #smudge #surveyorindonesia #ppkm #atikohganjarpranowo","createdAt":"2021-07-25T23:00:26.219Z","lastModified":"2021-07-25T23:00:26.219Z"},{"feedWallId":"bca7cbd1-cce1-4eb8-ac57-912c56f839e5","source":"instagram","username":"-","date":"2021-07-26T05:57:45+07:00","avatar":"https://instagram.fcgk18-1.fna.fbcdn.net/v/t51.2885-15/e35/223706042_153439046862647_1343401987850681624_n.jpg?se=7&_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=LWyYSiXyLgYAX8rB6uL&edm=ABZsPhsBAAAA&ccb=7-4&oh=392821baa8e8bff148993a9770497979&oe=61043E88&_nc_sid=4efc9f","caption":"Selamat Pagi Warga Kota!\\n\\nBingung mau cari jadwal Vaksin kapan dan dimana? Berikut kami Update jadwal vaksinasi bulan Juli di Kota Denpasar. \\n\\nSyarat: KTP-el dan Surat Keterangan Domisi/Kerja bagi warga diluar Kota Denpasar.\\n*Lokasi vaksin sekolah hanya dipertuntukkan untuk pelajar sekolah yang bersangkutan\\n\\nTetap patuhi Protokol Kesehatan ya warga kota! Tetap semangat! \xf0\x9f\x94\xa5\\n.\\nReposted from @denpasarkota \\n\\n@jayanegaraofficial @kadekagusaryawibawaofficial @gungantari_jn @ayukristi @joyful.denpasar @radiopublikotadenpasar @infodenpasar @denpasarnow @punapibali\\n\\n#pemkotdenpasar #denpasar #denpasarbali #denpasarkota \\n#denpasarcity #infodenpasar #denpasarnow #DenpasarMAJU \\n#denpasaraman #jayawibawa #bali #pemerintah #programkerja #denpasarbangga \\n#denpasarkotakurumahku #pemerintahbekerja #vaksinasidenpasar #vaksinanaksehat #prokes #kesehatan \\n#vaksinasi #PPKMDenpasar #ppkmdarurat #lawancovid19  #infobalikini","createdAt":"2021-07-25T23:00:26.215Z","lastModified":"2021-07-25T23:00:26.215Z"},{"feedWallId":"af161a07-8d54-4ef9-9fa9-f68c21fe7647","source":"instagram","username":"-","date":"2021-07-25T23:05:21+07:00","avatar":"https://instagram.fcgk18-2.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/223941594_852900202269415_3272805336883719500_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=rvhbbRoPjRgAX8eOAyq&edm=ABZsPhsBAAAA&ccb=7-4&oh=ec8f4ae34d3a598691a8a74668b078a1&oe=6103E1BE&_nc_sid=4efc9f","caption":"Gubernur Khofifah Indar Parawansa tinjau vaksinasi di Pondok Pesantren.\\n-\\nSelengkapnya: https://publis.id/read/forkopimda-jatim-tinjau-vaksinasi-di-pesantren\\n-\\n#Publis #Jatim #Vaksinasi #Pesantren #Kesehatan","createdAt":"2021-07-25T23:00:26.219Z","lastModified":"2021-07-25T23:00:26.219Z"},{"feedWallId":"ef21ee55-b48a-4998-a503-cf71ded1e30b","source":"instagram","username":"-","date":"2021-07-26T01:43:58+07:00","avatar":"https://instagram.fcgk18-1.fna.fbcdn.net/v/t51.2885-15/e35/223478666_581464679511435_1709380775820111066_n.jpg?se=7&_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=F3dvcrHlcHsAX9LfNnP&edm=ABZsPhsBAAAA&ccb=7-4&oh=fd15a568cfe0fda45dfab18a1e8f95b6&oe=6105B50E&_nc_sid=4efc9f","caption":"*Formulir Pendaftaran Vaksinasi COVID-19 di Kabupaten Tasikmalaya \xe2\x80\x93 Pengurus Cabang Nahdlatul Ulama Kab. Tasikmalaya*\\n\\n*Assalamualaikum Wr Wb*\\n\\nHaiii generasi sehat\\nBagi kalian yang ingin vaksin Covid19, PC NU Kabupaten Tasikmalaya akan mengadakan Vaksinasi Covid19 bagi Khusus Vaksin  Pertama  gratiss untuk seluruh warga NU dan masyarakat Kabupaten Tasikmalaya dengan syarat dan ketentuan yang berlaku. \\nPelaksanaan Vaksin Hari/Tanggal : Senin, 26 Juli 2021\\nWaktu : pukul 08.00 s.d Selesai.\\n Yuk  daftarkan secara online segera link dibawah ini, :\\n\\n*https://bit.ly/FormVaksinPCNUkabTasikmalaya*\\n\\nTempat : 1. Ponpes Sukamanah\\n2. Ponpes Sukahideng\\n3. Aula IAIC Cipasung Singaparna Tasikmalaya \\n\\n*Wallahul Muwaffiq ila Aqwamit Tharieq*\\n*Wassalamualaikum Wr Wb*\\n\\nTerima Kasih\\n*Pengurus Cabang Nahdlatul Ulama Kab. Tasikmalaya*\\n\\n*Drs. KH. Atam Rustam, M.SI*\\nKETUA \\n\\nUntuk informasi lebih lanjut dapat menghubungi Satgas NU Covid-19 Kab. Tasikmalaya:\\n*ERIS RISTIANA - +62 813-2313-5599*\\n*YANA SUMARNA - +62 852-2320-8016* \\n\\nMohon Info ini di bagikan kembali kepada Saudara / Kerabat yang membutuhkan\\n. \\n. \\n. \\n#vaksin #vaksinasi #nuonline #nujabaronline #polri #poldajabar #nutasikmalaya #nutasikonline #tasikmalaya #sukamanah #sukahideng #cipasung","createdAt":"2021-07-25T23:00:26.219Z","lastModified":"2021-07-25T23:00:26.219Z"},{"feedWallId":"eea68d46-c695-42be-836e-f230c847ac58","source":"instagram","username":"-","date":"2021-07-26T05:50:02+07:00","avatar":"https://instagram.fcgk18-1.fna.fbcdn.net/v/t51.2885-15/e35/224787115_844783766458479_7397299579327612048_n.jpg?se=7&_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=lPdutjX_pbUAX_-Ucop&edm=ABZsPhsBAAAA&ccb=7-4&oh=98f24536f4ae879f14796cddb7495b7d&oe=6104C680&_nc_sid=4efc9f","caption":"Selamat Pagi Warga Kota!\\n\\nBingung mau cari jadwal Vaksin kapan dan dimana? Berikut kami Update jadwal vaksinasi bulan Juli di Kota Denpasar. \\n\\nSyarat: KTP-el dan Surat Keterangan Domisi/Kerja bagi warga diluar Kota Denpasar.\\n*Lokasi vaksin sekolah hanya dipertuntukkan untuk pelajar sekolah yang bersangkutan\\n\\nTetap patuhi Protokol Kesehatan ya warga kota! Tetap semangat! \xf0\x9f\x94\xa5\\n\\n@jayanegaraofficial @kadekagusaryawibawaofficial @gungantari_jn @ayukristi @joyful.denpasar @radiopublikotadenpasar @infodenpasar @denpasarnow @punapibali\\n\\n#pemkotdenpasar #denpasar #denpasarbali #denpasarkota \\n#denpasarcity #infodenpasar #denpasarnow #DenpasarMAJU \\n#denpasaraman #jayawibawa #bali #pemerintah #programkerja #denpasarbangga \\n#denpasarkotakurumahku #pemerintahbekerja #vaksinasidenpasar #vaksinanaksehat #prokes #kesehatan \\n#vaksinasi #PPKMDenpasar #ppkmdarurat #lawancovid19","createdAt":"2021-07-25T23:00:26.218Z","lastModified":"2021-07-25T23:00:26.218Z"},{"feedWallId":"0e799f45-ef42-4c08-8c3f-7df7d2d63b92","source":"instagram","username":"-","date":"2021-07-25T23:59:15+07:00","avatar":"https://instagram.fcgk18-2.fna.fbcdn.net/v/t51.2885-15/e35/222745818_118444713841192_5019681065738760467_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=gUl_UZrk_eAAX8f-wFh&edm=ABZsPhsBAAAA&ccb=7-4&oh=0c7fce77113e94e36bc4ad33809e43b3&oe=6104FB54&_nc_sid=4efc9f","caption":"#masternews : BIN menggelar Vaksinasi masuk Ponpes, Madrasah dan datangi masyarakat dari Pintu ke Pintu di Cianjur\\n\\nBerita Selengkapnya di http://masterpeople.id/2021/07/25/bin-menggelar-vaksinasi-masuk-ponpes-madrasah-dan-datangi-masyarakat-dari-pintu-ke-pintu-di-cianjur/\\n\\n#breakingnews #news #newsupdate #newsonline #bin #badanintelijennegara #vaksinasi #pelajar #doortodoor #mptvindonesia","createdAt":"2021-07-25T23:00:26.219Z","lastModified":"2021-07-25T23:00:26.219Z"},{"feedWallId":"8fb218db-0429-45c5-84a1-18ccb6549b3c","source":"instagram","username":"-","date":"2021-07-25T22:56:21+07:00","avatar":"https://instagram.fcgk18-2.fna.fbcdn.net/v/t51.2885-15/e35/223511329_206085024791958_5155116658309877951_n.jpg?se=7&_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=1Vsw3VPqfAoAX8dnBm9&edm=ABZsPhsBAAAA&ccb=7-4&oh=167a59698805e3d3524b334d3d59b55b&oe=61053D0F&_nc_sid=4efc9f","caption":"AMBON, SENTRALTIMUR.COM \xe2\x80\x93 Rumah Sakit Bhayangkara Polda Maluku telah vaksinasi 32.745 warga di Maluku.\\n\xe2\x80\xa2\\nVaksinasi Covid-19 dipusatkan di Gerai Vaksinasi Presisi, Lapangan Letkol CHR Tahapary Polda Maluku, kawasan Tantui, Kota Ambon.\\n \xe2\x80\xa2\\nKabid Humas Polda Maluku, Kombes Pol Muhamad Roem Ohoirat mengatakan vaksinasi bagi puluhan ribu warga itu berlangsung dalam dua tahap sejak 19 Januari 2021 sampai 24 Juli 2021.\\n\xe2\x80\xa2\\nselengkapnya klik tautan di bio \\nAtau baca di www.sentraltimur.com\\n\xe2\x80\xa2\\n#sentraltimur #selalumembawaharapan #sentralterkini #infografis #beritaterkini #beritaviral #beritamaluku #beritaambon #ambonmanise #maluku #vaksinasi #covid_19","createdAt":"2021-07-25T23:00:26.219Z","lastModified":"2021-07-25T23:00:26.219Z"},{"feedWallId":"e7606f26-7943-47d2-95f6-a2922fd4391f","source":"instagram","username":"-","date":"2021-07-25T23:51:48+07:00","avatar":"https://instagram.fcgk18-2.fna.fbcdn.net/v/t51.2885-15/e35/223117673_839454763637695_569042023968119385_n.jpg?se=7&_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=xmsoIzhj4d0AX9r1s6c&edm=ABZsPhsBAAAA&ccb=7-4&oh=43d536a0a81320be9a08622688d723ef&oe=6105AF10&_nc_sid=4efc9f","caption":"Pasti anda ditanyakan sebelum vaksinasi, apakah anda pernah sakit? Baru dimasukkan jarum suntik di tubuhmu. #indonesiasehat #vaksinasi","createdAt":"2021-07-25T23:00:26.219Z","lastModified":"2021-07-25T23:00:26.219Z"}],"message":"Get Feedwall Success","code":200}'
+========
+REQUEST
+========
+POST https://track.analytic.rocks/log_mobile/ HTTP/2.0
+accept: application/json
+content-type: application/json; charset=utf-8
+content-length: 896
+accept-encoding: gzip
+user-agent: okhttp/4.6.0
+
+
+b'{"appName":"ZDNmOGFkYTgtZjQ2MC00YzQ3LThhZGYtNzM0NjIzMjU4MjE2\\n","event":"VXNlciBMb2NhdGlvbg==\\n","date_time":"MjUtU2VwLTIwMjEgMTc6MTU6MjM6NTM5\\n","device_id":"MTkwYjI1ZWEtNDQwZi00YzZlLTk2YTEtZDk1ZGM0Y2MzNGVk\\n","user_id":"ZjA4ZWJjNTAtMTZjNC0xMWVjLTgxZmMtYTE3ZjVlNWFjZWZj\\n","launch_type":"TGF1bmNo\\n","device_name":"VW5rbm93bjtHb29nbGUgUGl4ZWw=\\n","ram":"Myw5NTIgTUI=\\n","storage":"MTIsNzU2IE1C\\n","cpu":"dmJveDg2\\n","fw":"OC4wLjA=\\n","country":"LQ==\\n","city":"LQ==\\n","longitude":"MC4w\\n","latitude":"MC4w\\n","time_spent":"MA==\\n","activity_1":"LQ==\\n","activity_2":"LQ==\\n","activity_3":"LQ==\\n","custom1":"LQ==\\n","custom2":"Tk9UIFBPU0lUSVZF\\n","custom3":"LQ==\\n","email":"LQ==\\n","name":"WWFoeWEgRmFkaGx1bG9oIEFsIEZhdGlq\\n","phone":"LQ==\\n","gender":"LQ==\\n","ip_address":"LQ==\\n","carrier":"VXNpbmcgV0ktRkk=\\n","network_type":"V0lGSQ==\\n","platform":"QW5kcm9pZA==\\n","version":"My40LjY=\\n"}'
+=========
+RESPONSE
+=========
+HTTP/2.0 200 
+date: Sat, 25 Sep 2021 17:40:26 GMT
+server: Apache/2.4.27 (Ubuntu)
+access-control-allow-origin: *
+access-control-allow-credentials: true
+cache-control: max-age=10800, public
+content-length: 0
+content-type: application/json
+
+========
+REQUEST
+========
+CONNECT api2.pedulilindungi.id:443 HTTP/1.1
+Host: api2.pedulilindungi.id:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/4.6.0
+=========
+RESPONSE
+=========
+HTTP/1.1 502 Bad Gateway
+content-length: 65
+
+
+b'Cannot connect to api2.pedulilindungi.id:443: client disconnected'
