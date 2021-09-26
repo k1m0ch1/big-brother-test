@@ -9,6 +9,6 @@ Kamu merasa tidak nyaman menggunakan aplikasi, terkadang kamu merasa ada yang an
 Big Brother diambil dari novel 1984 George orwell dimana big brother adalah karakter fiktif yang dibuat oleh suatu kelompok untuk memberikan rasa takut kalau ada seseorang yg akan mengawasimu dimanapun dan kapanpun
 
 # Daftar aplikasi
-1. [Peduli Lindungi](peduli-lindungi/mobile-app-android-en.md)
+1. [Peduli Lindungi](peduli-lindungi/latest.md)
 
 untuk bergabung dan pengen tau caranya bisa baca ke [Contributing.md](CONTRIBUTING.md)
