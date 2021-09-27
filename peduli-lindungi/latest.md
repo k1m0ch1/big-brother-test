@@ -268,9 +268,10 @@ when the value is decoded will be like this
   "version": "3.4.6\n"
 }
 ```
-berbeda dengan firebase crashlytic, ini di encode ke base64, dan valuenya di encode ke base64
 
-kenapa nyimpen data activity kaya gini (?)
+this is different with firebase crashlytic, this data is encoded into base64 even the value encoded into base64
+
+why.. stored data acvity like this (?) is this even necessary ?
 
 `room_table_modification_log`
 
