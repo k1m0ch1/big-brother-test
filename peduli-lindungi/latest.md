@@ -132,7 +132,7 @@ I do a simple tracking to understand what is the `track.analytic.rocks`
     <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/sadf.png">
 </p>
 
-6. OSINT - theHarvester or you can see the result [here](osint-result.txt)
+6. OSINT - theHarvester (raw result was removed from this repository for privacy reasons)
 
 <p align="center">
     <img height=50% width=50% src="https://raw.githubusercontent.com/k1m0ch1/big-brother-test/master/peduli-lindungi/img/theHarvester-1.png">
